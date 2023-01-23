@@ -30,7 +30,7 @@ You can install the development version of farsr from [GitHub](https://github.co
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("hugo7gpad/farsr")
+devtools::install_github("Quan-Cui/far_gh")
 ```
 
 You can also prepare the example CSV data included using:
