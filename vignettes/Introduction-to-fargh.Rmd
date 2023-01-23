@@ -1,0 +1,46 @@
+---
+title: "Introduction-to-fargh"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction-to-fargh}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(fargh)
+```
+
+
+
+The goal of fargh is to offer tools to report and analyse accidents
+reports over years.The fargh package provides functions to read,
+summarize and visualize data on accidents recorded by time, date,
+geographical information such as: city, state, longitude, latitude… and
+more.
+
+You can download and install the development version of fargh using:
+
+  devtools::install_github("Quan-Cui/fargh", build_vignettes = TRUE)
+
+You can prepare the example csv data included using in the following way:
+
+```{r download data}
+make_filename(2013)
+make_filename(2014)
+make_filename(2015)
+readr::write_csv(accident_2013.csv.bz2, "accident_2013.csv.bz2")
+
+readr::write_csv(accident_2014.csv.bz2, "accident_2014.csv.bz2")
+
+readr::write_csv(accident_2015.csv.bz2, "accident_2015.csv.bz2")
+```
+
+

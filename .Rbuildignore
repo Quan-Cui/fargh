@@ -7,3 +7,5 @@
 ^\.github$
 ^doc$
 ^Meta$
+^far_gh\.Rproj$
+^fargh\.Rproj$

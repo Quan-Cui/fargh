@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/reference/test_package.html#special-files
 
 library(testthat)
-library(farsr)
+library(fargh)
 
-test_check("farsr")
+test_check("fargh")
