@@ -1,4 +1,4 @@
-Package: farsr
+Package: far_gh
 Title: Read, Summarize and Visualize Accidents Reports Data
 Version: 0.0.0.9000
 Authors@R: 
