@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.com/hugo7gpad/farsr.svg?branch=main)](https://travis-ci.com/hugo7gpad/farsr)
 [![R-CMD-check](https://github.com/hugo7gpad/farsr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hugo7gpad/farsr/actions/workflows/R-CMD-check.yaml)
+[![Travis build status](https://travis-ci.com/Quan-Cui/far_gh.svg?branch=main)](https://travis-ci.com/Quan-Cui/far_gh)
+[![R-CMD-check](https://github.com/Quan-Cui/far_gh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Quan-Cui/far_gh/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of farsr is to offer tools to report and analyse accidents data over years.The farsr package provides functions to read, summarize and visualize data on accidents recorded by time, date, geographical information such as: city,
