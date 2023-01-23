@@ -26,7 +26,7 @@ state, longitude, latitude... and more.
 
 ## Installation
 
-You can install the development version of farsr from [GitHub](https://github.com/) with:
+You can install the development version of far_gh from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
