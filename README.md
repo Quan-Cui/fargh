@@ -8,7 +8,11 @@
 [![Travis build
 status](https://travis-ci.com/Quan-Cui/fargh.svg?branch=main)](https://travis-ci.com/Quan-Cui/fargh)
 [![R-CMD-check](https://github.com/Quan-Cui/fargh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Quan-Cui/fargh/actions/workflows/R-CMD-check.yaml)
+
 <!-- badges: end -->
+
+> This repo is used for testing of making R packages. It adds no value
+> other than to myself. Please do **not** install it.
 
 # Installation
 
