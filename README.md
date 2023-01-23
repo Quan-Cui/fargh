@@ -6,9 +6,6 @@
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.com/hugo7gpad/farsr.svg?branch=main)](https://travis-ci.com/hugo7gpad/farsr)
-[![R-CMD-check](https://github.com/hugo7gpad/farsr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hugo7gpad/farsr/actions/workflows/R-CMD-check.yaml)
-[![Travis build
 status](https://travis-ci.com/Quan-Cui/far_gh.svg?branch=main)](https://travis-ci.com/Quan-Cui/far_gh)
 [![R-CMD-check](https://github.com/Quan-Cui/far_gh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Quan-Cui/far_gh/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
@@ -20,12 +17,12 @@ information such as: city, state, longitude, latitude… and more.
 
 ## Installation
 
-You can install the development version of farsr from
+You can install the development version of far_gh from
 [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("hugo7gpad/farsr")
+devtools::install_github("Quan-Cui/far_gh")
 ```
 
 You can also prepare the example CSV data included using:
